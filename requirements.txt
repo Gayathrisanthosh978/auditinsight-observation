@@ -1,0 +1,10 @@
+mysql-connector-python
+pandas
+requests
+spacy
+dateutil
+fuzzywuzzy
+pandasql
+python-dotenv
+langchain-nvidia-ai-endpoints
+beautifulsoup4
